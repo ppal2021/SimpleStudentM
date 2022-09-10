@@ -20,7 +20,7 @@ public class Batch extends javax.swing.JFrame {
      * Creates new form Course
      */
     
-    Connection con;
+    Connection con;//changeg
 PreparedStatement pst;
     
     public Batch() {
